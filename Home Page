@@ -1,0 +1,70 @@
+Test Cases For Home Page  
+
+Test Case 1: Verify Page Load and Layout
+
+Description: Check if the homepage loads quickly and displays all major elements correctly.
+
+Steps:
+1) Open the homepage.
+2) Verify responsiveness across different devices and screen sizes.
+
+Expected Result:
+1)Page loads within a reasonable timeframe.
+2) All content and elements are visible and properly aligned.
+3) No layout issues or missing elements.
+
+
+Test Case 2: Verify Navigation Menu
+
+Description: Check if the navigation menu functions properly.
+
+Steps:
+1) Identify top-level and sub-level navigation links.
+2) Click on various links and check if they redirect to the correct pages.
+3) Test hover functionalities and dropdown menus if applicable.
+
+Expected Result:
+1) All navigation links are clickable and redirect to intended pages.
+2) Hover effects and dropdown menus function smoothly.
+3) No broken links or redirects to irrelevant pages.
+
+Test Case 3: Verify Featured Content or Call to Action
+
+
+Description: Check if the featured content or call to action is prominent and effective.
+
+Steps:
+1) Identify the section showcasing featured content or a call to action (CTA).
+2) Analyze the visual appeal, clarity, and placement of the content/CTA.
+3) Click on the featured content or CTA and check if it leads to the appropriate page or action.
+
+Expected Result:
+1) Featured content or CTA is visually appealing and easy to locate.
+2) Content provides relevant information or the CTA clearly explains its purpose.
+3) Clicking on the content/CTA leads to the expected outcome.
+
+Test Case 4: Verify Search Functionality (Optional)
+
+Description: Check if the search function is user-friendly and delivers relevant results.
+
+Steps:
+1) Locate the search bar or functionality if present.
+2) Enter a relevant keyword and check if search results are displayed.
+3) Evaluate the relevance and accuracy of the search results.
+
+Expected Result:
+1) Search function is easily accessible and intuitive.
+2) Search results are relevant to the keyword and accurate.
+3) No irrelevant or incorrect information is displayed.
+
+Test Case 5: Verify Additional Functionality (Optional)
+
+Description: Check any additional functionalities specific to your homepage, like sign-up forms, login buttons, or social media links.
+
+Steps:
+1) Test the functionality of specific features like sign-up forms, login buttons, or social media links.
+2) Verify if the interaction is smooth and provides clear feedback.
+
+Expected Result:
+1) Additional functionalities work smoothly and as intended.
+2) Users receive proper feedback and confirmation upon interacting with the feature.
